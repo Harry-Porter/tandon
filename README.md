@@ -27,3 +27,6 @@ https://www.nyu.edu/about/leadership-university-administration/office-of-the-pre
 
 https://www.nyu.edu/students/health-and-wellness/next-stop-health-requirements/immunization-requirements.html
 
+**Cross-Registration Form – Graduate**
+
+https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/student-resources
