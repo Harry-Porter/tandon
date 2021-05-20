@@ -34,5 +34,5 @@ https://engineering.nyu.edu/academics/departments/computer-science-and-engineeri
 **COVID-19 vaccine requirements**
 https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-questions-and-support/vaccine-requirement.html#required
 
-###**Immunization Requirements(MMR & Covid-19)**
+### **Immunization Requirements(MMR & Covid-19)**
 https://www.nyu.edu/students/health-and-wellness/next-stop-health-requirements/health-requirements.html
