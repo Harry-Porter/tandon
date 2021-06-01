@@ -36,3 +36,6 @@ https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-a
 
 ### **Immunization Requirements(MMR & Covid-19)**
 https://www.nyu.edu/students/health-and-wellness/next-stop-health-requirements/health-requirements.html
+
+### **Bulletin Search & Course related stuff**
+http://bulletin.engineering.nyu.edu/preview_program.php?catoid=15&poid=4323&hl=computer+engineering&returnto=search
