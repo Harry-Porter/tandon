@@ -39,3 +39,11 @@ https://www.nyu.edu/students/health-and-wellness/next-stop-health-requirements/h
 
 ### **Bulletin Search & Course related stuff**
 http://bulletin.engineering.nyu.edu/preview_program.php?catoid=15&poid=4323&hl=computer+engineering&returnto=search
+
+**Law housing options**
+https://www.law.nyu.edu/housing/oncampushousing
+
+NYU Calendar
+https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/academic-calendar.html
+
+
