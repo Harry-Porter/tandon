@@ -3,7 +3,7 @@ New International Student Orientation
 
 https://www.nyu.edu/students/student-information-and-resources/student-visa-and-immigration/newly-admitted/when-you-arrive/mandatory-check-in.html
 
-### **General Graduate Student Housing Information Academic Year 2021-2022**
+**General Graduate Student Housing Information Academic Year 2021-2022**
 
 https://www.nyu.edu/content/dam/nyu/resLifeHousServ/documents/ApplicationsandAssignments/2021-2022GraduateStudentInfo.pdf
 
@@ -46,4 +46,5 @@ https://www.law.nyu.edu/housing/oncampushousing
 NYU Calendar
 https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/academic-calendar.html
 
-
+**NYU Student Health Center Login Page**
+https://shcportal.nyu.edu/login_directory.aspx
