@@ -48,3 +48,6 @@ https://www.nyu.edu/students/student-information-and-resources/registration-reco
 
 **NYU Student Health Center Login Page**
 https://shcportal.nyu.edu/login_directory.aspx
+
+**Graduate student orientation**
+https://engineering.nyu.edu/student-life/student-activities/graduate-student-orientation
